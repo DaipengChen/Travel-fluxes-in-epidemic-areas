@@ -1,6 +1,6 @@
 ######The manual of calculating travel fluxes ######
 
-"Determining travel fluxes in epidemic areas" by Daipeng Chen, Yuyi Cue, Yanni Xiao (2021)
+"Determining travel fluxes in epidemic areas" by Daipeng Chen, Yuyi Xue, Yanni Xiao (2021)
 
 The matlab code is edited under MATLAB 2021a.
 
