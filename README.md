@@ -2,7 +2,7 @@
 
 "Determining travel fluxes in epidemic areas" by Daipeng Chen, Yuyi Xue, Yanni Xiao (2021)
 
-The matlab code is edited under MATLAB 2021a.
+The matlab code is edited under MATLAB R2021a.
 
 $"Data" document:
               It includes four datasets.
