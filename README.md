@@ -26,4 +26,4 @@ $"Travel_flux" document:
 $"Testable_prediction" document:
               The files in this document are used to perform the prediction under different movement pattern. 
 
-@Remark: After downloading the code, please modify the input file path (C:\Users\Daipeng1993\Desktop\Code\Data\) to your own storage path. Some function in different documents are common.
+@Remark: After downloading the code, please modify the input file path (C:\Users\Daipeng1993\Desktop\Code\Data\) to your own storage path. Some functions in different documents are common.
