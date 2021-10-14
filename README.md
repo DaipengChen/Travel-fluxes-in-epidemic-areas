@@ -1,4 +1,4 @@
-######The manual of calculating travel fluxes ######
+######The manual of calculating travel fluxes in epidemic areas ######
 
 "Determining travel fluxes in epidemic areas" by Daipeng Chen, Yuyi Xue, Yanni Xiao (2021)
 
